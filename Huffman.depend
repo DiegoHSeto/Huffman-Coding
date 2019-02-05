@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1543130700 source:c:\users\win_7_ultimate\desktop\huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HuffmanTree.h"
+
+1543131415 source:c:\users\win_7_ultimate\desktop\huffman\huffmantree.c
+	"HuffmanTree.h"
+	"PriorityQueue.h"
+	<string.h>
+
+1542759126 c:\users\win_7_ultimate\desktop\huffman\priorityqueue.h
+	<stdio.h>
+	<stdlib.h>
+	"HuffmanTree.h"
+
+1542759107 source:c:\users\win_7_ultimate\desktop\huffman\priorityqueue.c
+	"PriorityQueue.h"
+
+1542760342 c:\users\win_7_ultimate\desktop\huffman\huffmantree.h
+
+1549380942 source:g:\outros\projetos c\huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HuffmanTree.h"
+
+1549380900 g:\outros\projetos c\huffman\huffmantree.h
+
+1546826088 source:g:\outros\projetos c\huffman\priorityqueue.c
+	"PriorityQueue.h"
+
+1542759128 g:\outros\projetos c\huffman\priorityqueue.h
+	<stdio.h>
+	<stdlib.h>
+	"HuffmanTree.h"
+
+1549380828 source:g:\outros\projetos c\huffman\huffmantree.c
+	"HuffmanTree.h"
+	"PriorityQueue.h"
+	<string.h>
+
